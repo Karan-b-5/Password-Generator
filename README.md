@@ -3,7 +3,7 @@
 Welcome to the Password Generator! This is a web-based application built using HTML, CSS, and JavaScript. The purpose of this tool is to help users generate secure and random passwords for their accounts.
 
 ## Live Demo
-Check out the live demo of the password generator [here](YOUR_LIVE_LINK).
+Check out the live demo of the password generator [here](https://the-generate-password.netlify.app/).
 
 ## How to Use
 1. Open the password generator in your web browser.
